@@ -39,7 +39,7 @@
      <div>
       <h5>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="vertical-align: middle;"/> 
-        <span style="vertical-align: middle;">Linux: Data Factory, Data Lake, Database, Activities, Integration with Git and Self-Hosted</span>
+        <span style="vertical-align: middle;">Linux: Command Lines</span>
       </h5>
     </div>
   </a>
