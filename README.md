@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=84A172&duration=3000&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Otto!;I'm+a+22+years+old+student+from+Brazil;I'm+graduating+on+Information+Systems;Be+Welcome!+(+%CD%A1%C2%B0+%CD%9C%CA%96+%CD%A1%C2%B0))](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe-otto&bg_color=0d1117&color=9EBC8B&line=B9D8A6&point=84A172&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=felipe-otto&bg_color=0d1117&color=9EBC8B&line=B9D8A6&point=84A172&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 
 <p align="center">
@@ -17,22 +18,25 @@
 
 
 <div align="center"> 
-<a href = "mailto:cmp.1a.felipe.otto.silva@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 30px"  target="_blank"></a>
-<a href="linkedin.com/in/felipeotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href = "mailto:felipe.otto.silva@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-84A172?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 30px"  target="_blank"></a>
+<a href="https://www.linkedin.com/in/felipeotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-84A172?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
  
  ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Php](https://img.shields.io/badge/-php-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp; 
 
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=84A172)&nbsp;
+![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117&logoColor=84A172)&nbsp;
+
+![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&labelColor=0D1117&logoColor=84A172)&nbsp;
+![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=Eclipse&labelColor=0D1117&logoColor=84A172)&nbsp;
+
+![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117&logoColor=84A172)&nbsp;
+![PLSQL](https://img.shields.io/badge/PLSQL-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&logoColor=84A172)&nbsp;
+
+![Azure](https://img.shields.io/badge/azure-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117&logoColor=84A172)&nbsp;
 
 ### Studying in this moment:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-
+![Power Bi](https://img.shields.io/badge/power_bi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&logoColor=84A172)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A8759&height=120&section=footer"/>
