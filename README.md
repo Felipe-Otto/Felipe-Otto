@@ -23,7 +23,7 @@
  </div>
 
  
- ### Main skills:
+ #### Main skills:
 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&logoColor=84A172)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117&logoColor=84A172)&nbsp;
@@ -36,7 +36,6 @@
 
 ![Azure](https://img.shields.io/badge/azure-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117&logoColor=84A172)&nbsp;
 
-### Studying in this moment:
 ![Power Bi](https://img.shields.io/badge/power_bi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&logoColor=84A172)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A8759&height=120&section=footer"/>
