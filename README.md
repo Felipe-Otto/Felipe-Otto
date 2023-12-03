@@ -18,7 +18,7 @@
 
 
 <div align="center"> 
-<a href = "mailto:felipe.otto.silva@hotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-84A172?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 30px"  target="_blank"></a>
+<a href = "mailto:Felipe-Otto@Outlook.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-84A172?style=for-the-badge&logo=microsoft-outlook&logoColor=white" style="border-radius: 30px"  target="_blank"></a>
 <a href="https://www.linkedin.com/in/felipeotto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-84A172?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
