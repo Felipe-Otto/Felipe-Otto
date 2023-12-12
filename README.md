@@ -39,4 +39,8 @@
 
 ![Power Bi](https://img.shields.io/badge/power_bi-0D1117?style=for-the-badge&logo=powerbi&labelColor=0D1117&logoColor=84A172)&nbsp;
 
+ #### Studying at the moment:
+![AWS](https://img.shields.io/badge/Amazon_AWS-0D1117?style=for-the-badge&logo=amazonaws&labelColor=0D1117&logoColor=84A172)&nbsp;
+![Mongo DB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&labelColor=0D1117&logoColor=84A172)&nbsp;
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A8759&height=120&section=footer"/>
