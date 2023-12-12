@@ -32,7 +32,8 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-0D1117?style=for-the-badge&logo=Eclipse&labelColor=0D1117&logoColor=84A172)&nbsp;
 
 ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-0D1117?style=for-the-badge&logo=microsoft-sql-server&labelColor=0D1117&logoColor=84A172)&nbsp;
-![PLSQL](https://img.shields.io/badge/PLSQL-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&logoColor=84A172)&nbsp;
+![SQL Developer](https://img.shields.io/badge/PLSQL-0D1117?style=for-the-badge&logo=oracle&labelColor=0D1117&logoColor=84A172)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117&logoColor=84A172)&nbsp;
 
 ![Azure](https://img.shields.io/badge/azure-0D1117?style=for-the-badge&logo=microsoftazure&labelColor=0D1117&logoColor=84A172)&nbsp;
 
